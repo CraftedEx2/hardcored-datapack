@@ -1,0 +1,2 @@
+data merge entity @e[type=zombie_pigman,limit=1,tag=!hc] {Tags:["hc"],HandItems:[{id:"minecraft:iron_sword",Count:1b},{}]}
+data merge entity @e[type=wither_skeleton,limit=1,tag=!hc] {Tags:["hc"],HandItems:[{id:"minecraft:iron_sword",Count:1b,tag:{AttributeModifiers:[{AttributeName:"generic.attackDamage",Name:"generic.attackDamage",Amount:5,Operation:0,UUIDLeast:35415,UUIDMost:777742,Slot:"mainhand"},{AttributeName:"generic.attackSpeed",Name:"generic.attackSpeed",Amount:8,Operation:0,UUIDLeast:889405,UUIDMost:686383,Slot:"mainhand"}]}},{}],HandDropChances:[0.065F,0.085F]}
