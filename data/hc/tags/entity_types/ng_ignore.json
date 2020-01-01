@@ -1,0 +1,20 @@
+{
+		"values": [
+		"minecraft:enderman",
+		"minecraft:bat",
+		"minecraft:bee",
+		"minecraft:chicken",
+		"minecraft:blaze",
+		"minecraft:dolphin",
+		"minecraft:cod",
+		"minecraft:salmon",
+		"minecraft:item",
+		"minecraft:minecart",
+		"minecraft:tnt_minecart",
+		"minecraft:hopper_minecart",
+		"minecraft:chest_minecart",
+		"minecraft:painting",
+		"minecraft:experience_orb",
+		"minecraft:area_effect_cloud"
+	]
+}
