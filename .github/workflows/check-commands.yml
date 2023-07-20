@@ -2,7 +2,8 @@ name: Check commands
 
 on:
   push:
-    branches: [ "master" ]
+    branches:
+    - main
 
   workflow_dispatch:
 
